@@ -2,7 +2,7 @@
 
 ## Dataset Used
 - **Name**: Indian Liver Patient Dataset
-- **Source**: [Kaggle](https://www.kaggle.com/datasets/abhishek1998/indian-liver-patient-dataset)
+- **Source**: [Kaggle](https://www.kaggle.com/code/netzone/indian-liver-disease-modeling)
 - **Original Dataset**: `indian_liver_patient.csv`
 - **Cleaned Dataset**: `cleaned_ilpd.csv`
 - **Description**: Medical data for liver patients including blood test results and diagnostic labels (1 = liver disease, 2 = no liver disease).
